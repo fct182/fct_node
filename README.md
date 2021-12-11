@@ -32,7 +32,7 @@ coderhub
 ├── README.md
 ```
 
-# 业务接口
+# 业务接口总览
 1. 用户管理系统
    - 用户注册、登录等接口
     `src/router/user.router.js`
@@ -45,10 +45,16 @@ coderhub
 4. 内容标签管理
 	  `src/router/label.router.js`
 5. 文件管理系统
+    `src/router/file.router.js`
+	- 上传头像
+	- 上传动态配图
+   
+# 接口详情
+接口详细参数请查看源代码。
+(因为我懒，不想弄接口文档，有时间一定弄。)
 
-6. 上传图片
-   1. 上传头像
-	 2. 上传动态配图
+![接口图片](https://s2.loli.net/2021/12/11/MbASNE1FHVmu7Xo.png)
+
 
 # 数据库
 
