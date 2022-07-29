@@ -1,6 +1,7 @@
 # 项目
-项目名：coderhub
-项目概述：创建一个程序员分享生活动态的平台。
+项目名：nodeProject
+项目概述：仅为NodeJS后端服务端项目。
+技术：Node+Express+MySQL
 
 # 项目接口
 - 面向用户的业务接口
